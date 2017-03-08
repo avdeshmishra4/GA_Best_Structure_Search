@@ -1,0 +1,11 @@
+E:\FALL2014\Pattern-Recognition\prog_assign_2\GA_Best_Structure_Search\GA_Best_Structure_Search\bin\Debug\GA_Best_Structure_Search.exe.config
+E:\FALL2014\Pattern-Recognition\prog_assign_2\GA_Best_Structure_Search\GA_Best_Structure_Search\bin\Debug\GA_Best_Structure_Search.exe
+E:\FALL2014\Pattern-Recognition\prog_assign_2\GA_Best_Structure_Search\GA_Best_Structure_Search\bin\Debug\GA_Best_Structure_Search.pdb
+E:\FALL2014\Pattern-Recognition\prog_assign_2\GA_Best_Structure_Search\GA_Best_Structure_Search\bin\Debug\GA_Best_Structure_Search.xml
+E:\FALL2014\Pattern-Recognition\prog_assign_2\GA_Best_Structure_Search\GA_Best_Structure_Search\obj\Debug\GA_Best_Structure_Search.Form1.resources
+E:\FALL2014\Pattern-Recognition\prog_assign_2\GA_Best_Structure_Search\GA_Best_Structure_Search\obj\Debug\GA_Best_Structure_Search.Resources.resources
+E:\FALL2014\Pattern-Recognition\prog_assign_2\GA_Best_Structure_Search\GA_Best_Structure_Search\obj\Debug\GA_Best_Structure_Search.vbproj.GenerateResource.Cache
+E:\FALL2014\Pattern-Recognition\prog_assign_2\GA_Best_Structure_Search\GA_Best_Structure_Search\obj\Debug\GA_Best_Structure_Search.exe
+E:\FALL2014\Pattern-Recognition\prog_assign_2\GA_Best_Structure_Search\GA_Best_Structure_Search\obj\Debug\GA_Best_Structure_Search.xml
+E:\FALL2014\Pattern-Recognition\prog_assign_2\GA_Best_Structure_Search\GA_Best_Structure_Search\obj\Debug\GA_Best_Structure_Search.pdb
+E:\FALL2014\Pattern-Recognition\prog_assign_2\GA_Best_Structure_Search\GA_Best_Structure_Search\obj\Debug\GA_Best_Structure_Search.vbprojResolveAssemblyReference.cache
